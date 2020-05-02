@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="language_option">
+        <item>Выберите язык</item>
+        <item>English</item>
+        <item>Қазақ</item>
+        <item>Русский</item>
+        <item>中文</item>
+    </string-array>
+
+    <string name="app_name">ChessAppGG</string>
+    <string name="login">Логин</string>
+    <string name="passwordName">Пароль</string>
+    <string name="SignInText">Войти</string>
+    <string name="ForgotPassText">Забыл пароль</string>
+    <string name="create_account_text">Создать Аккаунт</string>
+    <string name="usernameText_hint">Имя пользователя</string>
+    <string name="confirm_passwordText">Подтвердить пароль</string>
+    <string name="emailText">Email</string>
+    <string name="playText">Онлайн игра</string>
+    <string name="communityText">Оффлайн игра</string>
+    <string name="optionText">Настройки</string>
+    <string name="rulesText">Правила</string>
+    <string name="EmptyInput">Ввод пустой</string>
+    <string name="EmptyNameInputOrLess">Имя постое или меньше чем 4 буквы</string>
+    <string name="InputEmailText">Введите ваш email</string>
+    <string name="RegisterSuccess">Вы зарегистрировались</string>
+    <string name="OOPS_TryAgain">УПС! Попробуйте еще раз</string>
+    <string name="notificationName">Уведомление</string>
+    <string name="soundText">Звук</string>
+    <string name="changeUserText">Поменять пользователя</string>
+    <string name="backText">Назад</string>
+    <string name="okText">OK</string>
+    <string name="errorLoginOrPass">Ваш пароль или логин неверны</string>
+    <string name="shareApp">Поделитесь этим приложением</string>
+    <string name="fullRulesRealText">Общие правила:
+\n
+        1) Игроки могут перемещать только свои шахматные фигуры в свой ход.
+\n\n
+        2) Если игрок находится под контролем, этот игрок должен подождать до назначенного ему хода, прежде чем этот игрок сможет ответить на угрозу. Однако в большинстве вариантов, если ход игрока ставит противника под контроль другого противника (например, перемещая коня, чтобы выставить короля одного противника на ладью другого), второму противнику запрещается захватывать король первого, пока у него не будет возможности разобраться с чеком. Некоторые варианты запрещают ходы, которые могут привести к тому, что один противник будет контролировать чужие руки. Эти ограничения предназначены для предотвращения сговора между игроками, как более подробно обсуждается ниже.
+\n\n
+        3) Пешки двигаются только вперед, если не атакуют по диагонали вперед.
+\n\n
+        4) В случае, если пешка достигает ряда короля слева, справа или прямо поперек, эта пешка получает все привилегии пешки, достигающей ряда короля во время традиционной шахматной игры (т.е. превращения в ферзя (чаще всего) ладью епископ или рыцарь).
+\n\n
+        5) Допускается объединение двух или более игроков.</string>
+    <string name="achievements">Достижения</string>
+    <string name="reload">Перезаряжать</string>
+    <string name="mode1">2-х игроков, стандартная шахматная доска</string>
+    <string name="mode2">2 игрока, расширенная доска</string>
+    <string name="mode3">4 игрока в 2 командах</string>
+    <string name="mode4">4 игрока, без команд</string>
+    <string name="theirturn">Их очередь:</string>
+    <string name="yourturn">Ваш ход:</string>
+    <string name="localmatches">Местные совпадения:</string>
+    <string name="history">История игр</string>
+    <string name="newgame">Начать новую игру</string>
+    <string name="localgame">Локальная игра</string>
+    <string name="gameover">Игра окончена! \n</string>
+    <string name="win">Поздравляем, вы выиграли игру!</string>
+    <string name="loss">Извините, вы проиграли игру!</string>
+    <string name="winlocal">Поздравляем  , вы выиграли игру!</string>
+    <string name="deletematch">Вы действительно хотите удалить эту игру?</string>
+    <string name="leavematch">Вы действительно хотите покинуть эту игру?</string>
+</resources>

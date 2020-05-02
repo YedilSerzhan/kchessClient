@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347344118468",
+    "firebase_url": "https://kchess-6f6c6.firebaseio.com",
+    "project_id": "kchess-6f6c6",
+    "storage_bucket": "kchess-6f6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347344118468:android:b9a9d45910141f36f85f91",
+        "android_client_info": {
+          "package_name": "kz.evilteamgenius.chessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347344118468-8enthmavb1hfcs7cc9hl1ggnddcu8vlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtSj2yNA1zhi79dZbLcP4vGIelgNvQEc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347344118468-8enthmavb1hfcs7cc9hl1ggnddcu8vlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
